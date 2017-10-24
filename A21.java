@@ -58,7 +58,7 @@ class SimpleCalculator{
 	}
 	 public static void main(String[] args) {
 	 	SimpleCalculator sc = new
-	 	SimpleCalculator(30);
+	 	SimpleCalculator(10);
 	 	sc.performCalculation();
 		
 	}
